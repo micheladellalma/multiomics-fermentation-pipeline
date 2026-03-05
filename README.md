@@ -10,6 +10,7 @@ Below is an image illustrating the initial inputs and the final table used to co
 
 <img width="781" height="269" alt="Screenshot 2025-12-04 at 09 24 06" src="https://github.com/user-attachments/assets/f35888dc-a37d-4a38-b31c-4adb3bd992b1" />
 
+## :twisted_rightwards_arrows: Workflow overview
 In reality in the middle, there are many more steps...
 summarized in the following diagram:
 
