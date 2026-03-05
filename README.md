@@ -1,4 +1,4 @@
-# MultiOmicsFermentation
+# multiomics-fermentation-pipeline
 
 ## Overview
 MuliOmicsFermentation is a workflow for identifying the dynamics of microorganisms, pathways and metabolites throughout the fermentation process.
